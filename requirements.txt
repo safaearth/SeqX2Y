@@ -1,0 +1,13 @@
+# for read dicom file
+SimpleITK
+
+matplotlib
+opencv-python
+
+# framework
+pytorch-lightning
+lightning-bolts
+torchmetrics
+
+# config loader
+hydra
